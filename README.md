@@ -7,14 +7,9 @@
 
 形式上为
 
-\begin{table}[]
-\begin{tabular}{lllll}
-交易日期 & 股票代码 & 股票名称 & 选股排名 & 持仓时间 \\
-     &      &      &      &      \\
-     &      &      &      &      \\
-     &      &      &      &     
-\end{tabular}
-\end{table}
+交易日期 股票代码 股票名称 选股排名 持仓时间
+
+xxxx      xxxx      xxxx      xxxx      xxxx
 
 2、通过每日选股表计算回测曲线
 
